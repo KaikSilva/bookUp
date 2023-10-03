@@ -16,9 +16,11 @@ Ao desenvolver o **BookUp**, enfrentei alguns desafios empolgantes:
 
 5. **Segurança:** Garantir a segurança dos dados dos usuários e implementar medidas para proteger a privacidade das informações pessoais.
 
-## Como Contribuir
+## Tecnologias usadas
 
-Se você é um entusiasta da tecnologia e da leitura, adoraríamos receber sua contribuição para tornar o **BookUp** ainda melhor! Sinta-se à vontade para abrir problemas, enviar solicitações de pull ou compartilhar suas ideias para futuras melhorias.
+- ReactJs com Redux & ReactQuery    
+- Bootstrap
+- HTML, CSS/SASS
 
 ## Acesse online
 
